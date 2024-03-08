@@ -1,3 +1,5 @@
+![Loading Image...](https://www.canva.com/design/DAF-4ppoWQ0/GbKyNiZLXaC5BAQZVDIrxQ/watch?utm_content=DAF-4ppoWQ0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
 ### Thank you for visiting my GitHub repository! Welcome!👋
 # My Technical Stack Repository
 
@@ -7,8 +9,9 @@ This repository is a collection of materials related to my technical stack. It a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrchu0002&layout=compact)](https://github.com/Mrchu0002/github-readme-stats)
 
-<div align="center">
 <a href="https://www.instagram.com/choo_s_0321/" target="_blank"><img src="https://img.shields.io/badge/Instagram-mrchu0002-red?logo=instagram"></a>
+
+<div align="center">
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
