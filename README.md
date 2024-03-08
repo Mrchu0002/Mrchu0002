@@ -1,6 +1,16 @@
-### Hi there 👋
+### Thank you for visiting my GitHub repository! Welcome!👋
 
 <a href="https://www.instagram.com/choo_s_0321/" target="_blank"><img src="https://img.shields.io/badge/Instagram-mrchu0002-red?logo=instagram"></a>
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/DBever-003B57?style=for-the-badge&logo=dbever&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+
 <!--
 **Mrchu0002/Mrchu0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
