@@ -1,6 +1,6 @@
 <div align="center">
-![Mrchu Git Hub](https://github.com/Mrchu0002/Mrchu0002/assets/154123516/dbf0206d-0386-427b-a8f4-5e9867e5d7bb)
-<div>
+<img src="https://github.com/Mrchu0002/Mrchu0002/assets/154123516/dbf0206d-0386-427b-a8f4-5e9867e5d7bb" alt="Mrchu GitHub">
+</div>
 
 ### Thank you for visiting my GitHub repository! Welcome!👋
 # My Technical Stack Repository
