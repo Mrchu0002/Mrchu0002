@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/choo_s_0321/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.instagram.com/choo_s_0321/" target="_blank"><img src="https://img.shields.io/badge/choo_0321-#E4405F?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
 
 <!--
 **Mrchu0002/Mrchu0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
