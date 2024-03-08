@@ -1,4 +1,10 @@
 ### Thank you for visiting my GitHub repository! Welcome!👋
+# My Technical Stack Repository
+
+This repository is a collection of materials related to my technical stack. It also serves as a space for storing resources when studying.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrchu0002&show_icons=true&theme=dark)](https://github.com/Mrchu0002/github-readme-stats)
+
 
 <a href="https://www.instagram.com/choo_s_0321/" target="_blank"><img src="https://img.shields.io/badge/Instagram-mrchu0002-red?logo=instagram"></a>
 
