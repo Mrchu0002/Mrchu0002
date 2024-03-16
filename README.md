@@ -42,7 +42,7 @@ This repository is a collection of materials related to my technical stack. It a
    <br>
 
 <h3>
-  디자인 참고용
+ 🔭 디자인 참고용
 </h3>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 
