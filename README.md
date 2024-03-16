@@ -28,7 +28,10 @@ This repository is a collection of materials related to my technical stack. It a
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/DBever-003B57?style=for-the-badge&logo=dbever&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<br>
+  <h3>
        🌱 지금 배우고 있는것!
+   </h3>
    <br>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
