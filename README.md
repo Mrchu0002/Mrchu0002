@@ -47,7 +47,7 @@ This repository is a collection of materials related to my technical stack. It a
 <h3>
  🔭 디자인 참고용
 </h3>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 
 <!--
 **Mrchu0002/Mrchu0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
